@@ -31,3 +31,5 @@
   </li>
 </ul>
 
+https://github.com/araujo21x/Next_Level_Week
+https://github.com/araujo21x/livro_constuindo_apis_testaveis_nodeJs
