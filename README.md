@@ -31,7 +31,7 @@
   </li>
   <li>
    <li>
-    <a href="https://github.com/araujo21x/rocketseat">DevBoost</a>
+    <a href="https://github.com/araujo21x/rocketseat">Rocketseat - Ignite</a>
     <ul>
       <li>
         Tecnologia:
