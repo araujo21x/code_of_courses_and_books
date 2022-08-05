@@ -30,6 +30,21 @@
     </ul>
   </li>
   <li>
+   <li>
+    <a href="https://github.com/araujo21x/rocketseat">DevBoost</a>
+    <ul>
+      <li>
+        Tecnologia:
+        <ul>
+          <li>Node.Js</li>
+          <li>React JS</li>
+          <li>React Native</li>
+          <li>Docker</li>
+        </ul>
+      </li>
+    </ul>
+  </li>
+  <li>
     <a href="https://github.com/araujo21x/Next_Level_Week">Next_Level_Week de 01/06/2020 à 05/06/2020 - Rocketseat</a>
     <ul>
       <li>
